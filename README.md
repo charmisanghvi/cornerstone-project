@@ -3,7 +3,8 @@
 This Repository is a collection of learning material , manual exercises and DevOps automation exercises.
 
 ### Sprint 1:
-All stories assigned to you on project management board for Sprint 1 are placed in the folder Sprint1-Intro. Each folder contains a set of activities. Ansible and Jenkins folder are manual steps to be executed as instructued in individual file. Jenkins jobs contains automation exercises to be completed
+All stories assigned to you on project management board for Sprint 1 are placed in the folder Sprint1-Intro. 
+PS: Each folder contains a set of activities. Ansible and Jenkins folder are manual steps to be executed as instructued in individual file. Jenkins jobs contains automation exercises to be completed. Content within docker folder is reading material to help with other exercises.
 
 As a DevOps engineer on the team your responsibility is to 
 - Create tasks for yourself in project management tool
